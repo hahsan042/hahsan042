@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/1tqqC692/Untitled-1900-x-400-px-1200-x-350-px.png" width="100%" alt="Banner">
+<img width="1900" height="400" alt="Untitled (1900 x 400 px)" src="https://github.com/user-attachments/assets/686852cb-5cd1-4632-8783-a24e6d9d0417" />
+
 </p>
 
 <br/>
@@ -44,7 +45,21 @@ Outside of coding, I enjoy reading, writing articles, and learning new technolog
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahsan042&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahsan042&theme=transparent&hide_border=true) | ![GitHub Streak](https://github.com/hahsan042/hahsan042) |
 
 ---
+## 🚀 My Projects
 
+### 1️⃣ 🌾 KrishiLink
+
+| Feature | Details |
+|---------|---------|
+| **Live Site** | [KrishiLink](https://superlative-biscuit-1df894.netlify.app) |
+| **Client Side** | [GitHub Repo](https://github.com/hahsan042/kirishilink-client) |
+| **Server Side** | [GitHub Repo](https://github.com/hahsan042/kirishi-link-server-side) |
+| **About** | KrishiLink is a modern agricultural platform that connects farmers and buyers directly. Farmers can post their crops, and buyers can express interest and purchase fresh produce easily. |
+| **Features** | 🌱 Crop Marketplace: Farmers can add crop listings with details like name, type, price, and quantity.<br>💬 Buyer Interest System: Buyers can show interest and communicate directly with farmers.<br>📰 Agro News Section: Latest agricultural news with CRUD functionality.<br>👩‍🌾 Featured Farmers: Highlights top farmers and their products.<br>🔒 Secure Authentication: Firebase Authentication (Email & Google Sign-in).<br>📱 Responsive Design: Fully optimized for mobile, tablet, and desktop. |
+| **Technologies** | Frontend: React.js, Vite, Tailwind CSS, DaisyUI, Framer Motion<br>Backend: Node.js, Express.js, MongoDB<br>Authentication: Firebase<br>Hosting: Vercel (Client) & Vercel/Render (Server) |
+| **Developer** | Md. Ahsan Habib 📧 [Email](mailto:eee1916054brur@gmail.com) |
+
+---
 ## 🔗 Social Links
 
 <p align="left">
