@@ -39,7 +39,7 @@ Outside of coding, I enjoy reading, writing articles, and learning new technolog
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahsan042&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahsan042&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hahsan042&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahsan042&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahsan042&theme=transparent&hide_border=true) | ![GitHub Streak](https://github.com/hahsan042/hahsan042) |
 
 ---
 
