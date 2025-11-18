@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/7tnG3kQx/Untitled-1900-x-400-px.png" alt="Banner">
+<img src="https://i.ibb.co/7tnG3kQx/Untitled-1900-x-400-px.png" alt="Banner">
 
 <br/>
 
