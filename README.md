@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./banner/github_banner.png" alt="Banner">
+<img src="https://i.ibb.co.com/7tnG3kQx/Untitled-1900-x-400-px.png" alt="Banner">
 
 <br/>
 
@@ -27,10 +27,10 @@ Outside of coding, I enjoy reading, writing articles, and learning new technolog
 
 | **Skills Overview** | **Technologies** |
 |---------------------|------------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=redux) ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vuedotjs) |
-| **Backend Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js) |
+| **Backend Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code) |
 
 ---
@@ -46,9 +46,9 @@ Outside of coding, I enjoy reading, writing articles, and learning new technolog
 ## 🔗 Social Links
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/hahsan042"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/hahsan042"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/hahsan042"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -57,9 +57,9 @@ Outside of coding, I enjoy reading, writing articles, and learning new technolog
 
 Feel free to reach out or connect with me:
 
-- **Email:** your-email-here@gmail.com  
+- **Email:** hahsan042@gmail.com 
 - **LinkedIn:** https://linkedin.com/in/your-link  
-- **Facebook:** https://facebook.com/your-profile  
+- **Facebook:** https://facebook.com/hahsan042  
 
 ---
 
