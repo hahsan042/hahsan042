@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/7tnG3kQx/Untitled-1900-x-400-px.png" alt="Banner">
+<p align="center">
+  <img src="https://i.ibb.co.com/1tqqC692/Untitled-1900-x-400-px-1200-x-350-px.png" width="100%" alt="Banner">
+</p>
 
 <br/>
 
