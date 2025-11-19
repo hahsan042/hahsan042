@@ -56,9 +56,6 @@ I enjoy building scalable applications, solving real-world problems, and learnin
 
 ---
 
----
-## 🚀 My Projects
-
 ### 1️⃣ 🌾 KrishiLink
 
 | Feature | Details |
